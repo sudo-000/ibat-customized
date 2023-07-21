@@ -1,4 +1,4 @@
 # ibat-customized
 My customized version of ibat
 
-Description will be updated later. 
+Changed some settings and added some script examples
